@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                 name="Metakyasshu-docs"
+                 start-page="metakyasshu.md">
+
+    <toc-element topic="metakyasshu.md"/>
+    <toc-element topic="requirements.md">
+        <toc-element topic="RF01.md"/>
+        <toc-element topic="RF02.md"/>
+    </toc-element>
+</instance-profile>
