@@ -10,5 +10,13 @@
     <toc-element topic="requirements.md">
         <toc-element topic="RF01.md"/>
         <toc-element topic="RF02.md"/>
+        <toc-element topic="RF03.md"/>
+        <toc-element topic="RF04.md"/>
+        <toc-element topic="RF05.md"/>
+        <toc-element topic="RF06.md"/>
+        <toc-element topic="RF07.md"/>
+        <toc-element topic="RF08.md"/>
+        <toc-element topic="RF09.md"/>
+        <toc-element topic="RF10.md"/>
     </toc-element>
 </instance-profile>
