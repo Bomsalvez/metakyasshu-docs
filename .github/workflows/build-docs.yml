@@ -10,9 +10,9 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/m'
-  ARTIFACT: 'webHelpM2-all.zip'
-  DOCKER_VERSION: '233.14938'
+  INSTANCE: `Writerside/m`
+  ARTIFACT: `webHelpM2-all.zip`
+  DOCKER_VERSION: `233.14938`
 
 jobs:
   build:
@@ -63,7 +63,7 @@ jobs:
           name: docs
 
       - name: Unzip artifact
-        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
+        run: unzip -O UTF-8 -qq `${{ env.ARTIFACT }}` -d dir
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
