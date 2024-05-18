@@ -34,14 +34,17 @@
 | RF28 | Editar Meta            | Usuário | O usuário editara uma meta                                     |
 | RF29 | Visualizar Meta        | Usuário | O usuário visualizara uma meta                                 |
 | RF30 | Definir Colaborador    | Usuário | O usuário definira um colaborador                              |
-| RF31 | Concluir Meta          | Usuário | O usuário concluirá uma meta                                   |
-| RF32 | Convidar Colaborador   | Usuário | O usuário convidara um colaborador                             |
-| RF33 | Aceitar Convite        | Usuário | O usuário aceitara um convite                                  |
-| RF34 | Listar Colaboradores   | Usuário | O usuário visualizara todos os colaboradores cadastrados       |
-| RF35 | Excluir Colaborador    | Usuário | O usuário excluirá um colaborador                              |
-| RF36 | Listar Convites        | Usuário | O usuário visualizara todos os convites enviados               |
-| RF37 | Editar Colaborador     | Usuário | O usuário editara um colaborador                               |
-| RF38 | Visualizar Colaborador | Usuário | O usuário visualizara um colaborador                           |
+| RF31 | Criar Categoria        | Sistema | O sistema criara uma categoria temporária vinculada a uma meta |
+| RF32 | Concluir Meta          | Usuário | O usuário concluirá uma meta                                   |
+| RF33 | Convidar Colaborador   | Usuário | O usuário convidara um colaborador                             |
+| RF34 | Visualizar Convite     | Usuário | O usuário visualizara um convite                               |
+| RF35 | Aceitar Convite        | Usuário | O usuário aceitara um convite                                  |
+| RF36 | Listar Colaboradores   | Usuário | O usuário visualizara todos os colaboradores cadastrados       |
+| RF37 | Excluir Colaborador    | Usuário | O usuário excluirá um colaborador                              |
+| RF38 | Listar Convites        | Usuário | O usuário visualizara todos os convites enviados               |
+| RF39 | Editar Colaborador     | Usuário | O usuário editara um colaborador                               |
+| RF40 | Visualizar Colaborador | Usuário | O usuário visualizara um colaborador                           |
+| RF41 | Notificar Usuário      | Sistema | O sistema notificara o usuário                                 |
 
 ## Requisitos Não Funcionais
 

@@ -28,5 +28,17 @@
         <toc-element topic="RF18.md"/>
         <toc-element topic="RF19.md"/>
         <toc-element topic="RF20.md"/>
+        <toc-element topic="RF21.md"/>
+        <toc-element topic="RF22.md"/>
+        <toc-element topic="RF23.md"/>
+        <toc-element topic="RF24.md"/>
+        <toc-element topic="RF25.md"/>
+        <toc-element topic="RF26.md"/>
+        <toc-element topic="RF27.md"/>
+        <toc-element topic="RF28.md"/>
+        <toc-element topic="RF29.md"/>
+        <toc-element topic="RF30.md"/>
+        <toc-element topic="RF31.md"/>
+        <toc-element topic="RF32.md"/>
     </toc-element>
 </instance-profile>
