@@ -49,4 +49,6 @@
         <toc-element topic="RF39.md"/>
         <toc-element topic="RF40.md"/>
     </toc-element>
+    <toc-element topic="Architectural-Overview.md"/>
+    <toc-element topic="Class-Diagram.md"/>
 </instance-profile>
