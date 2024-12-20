@@ -10,4 +10,14 @@
         <description>Created after removal of "RF32 - Concluir Meta" from Metakyasshu-docs</description>
         <accepts>RF32.html</accepts>
     </rule>
+    <rule id="19ed1de6">
+        <description>Created after removal of "Arquitetura" from Metakyasshu-docs</description>
+        <accepts>Arquitetura.html</accepts>
+    </rule>
+    <rule id="5dc65b1b">
+        <description>Created after removal of "CronogramaCronograma Semanal: METAKYASSHU (Desenvolvimento Solo)" from
+            Metakyasshu-docs
+        </description>
+        <accepts>Cronograma.html</accepts>
+    </rule>
 </rules>
