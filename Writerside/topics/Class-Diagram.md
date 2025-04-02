@@ -1,2 +1,0 @@
-# Diagrama de Classes
-
