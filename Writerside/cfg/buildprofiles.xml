@@ -2,7 +2,21 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <header-logo>Logo.png</header-logo>
+        <custom-favicons>Logo.png</custom-favicons>
+    </variables>
+
+    <footer>
+        <social type="github" href="https://github.com/bomsalvez/">Github</social>
+        <social type="email" href="mail@bomsalvez@gmail.com">Email</social>
+        <social type="linkedin" href="https://www.linkedin.com/in/bomsalvez-freitas/">LinkedIn</social>
+        <social type="telegram" href="https://t.me/+5565992300223">WhatsApp</social>
+
+
+        <copyright>2025 Senzalla Technology</copyright>
+    </footer>
+
     <build-profile instance="m">
         <variables>
             <noindex-content>true</noindex-content>

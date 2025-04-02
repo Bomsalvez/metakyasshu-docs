@@ -20,4 +20,32 @@
         </description>
         <accepts>Cronograma.html</accepts>
     </rule>
+    <rule id="191999bf">
+        <description>Created after removal of "Visão Geral da Arquitetura" from Metakyasshu-docs</description>
+        <accepts>Architectural-Overview.html</accepts>
+    </rule>
+    <rule id="156bc066">
+        <description>Created after removal of "Diagrama de Classes" from Metakyasshu-docs</description>
+        <accepts>Class-Diagram.html</accepts>
+    </rule>
+    <rule id="7c8180b8">
+        <description>Created after removal of "Estrutura do Projeto" from Metakyasshu-docs</description>
+        <accepts>structure.html</accepts>
+    </rule>
+    <rule id="28ad7fab">
+        <description>Created after removal of "Arquitetura" from Metakyasshu-docs</description>
+        <accepts>architecture.html</accepts>
+    </rule>
+    <rule id="1d88e13c">
+        <description>Created after removal of "Visão Geral da Arquitetura" from Metakyasshu-docs</description>
+        <accepts>Architectural-Overview.html</accepts>
+    </rule>
+    <rule id="d6f3be1">
+        <description>Created after removal of "Diagrama de Classes" from Metakyasshu-docs</description>
+        <accepts>Class-Diagram.html</accepts>
+    </rule>
+    <rule id="46c2e28f">
+        <description>Created after removal of "Estrutura do Projeto" from Metakyasshu-docs</description>
+        <accepts>structure.html</accepts>
+    </rule>
 </rules>
