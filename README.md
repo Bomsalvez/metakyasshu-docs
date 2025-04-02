@@ -44,7 +44,7 @@ O Sistema de Gestão Financeira Metakyasshu é uma plataforma inovadora que comb
 - Docker Compose para ambiente containerizado
 
 ### Mais informações
-- [Documentação do Projeto](https://bomsalvez.github.io/metakyasshu-docs/metakyasshu.html)
+- [Documentação do Projeto](bomsalvez.github.io/metakyasshu-docs/home.html)
 
 ---
 
