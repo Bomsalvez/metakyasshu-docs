@@ -1,4 +1,4 @@
-# 🎮 Sistema de Gestão Financeira Metakyasshu 🎮
+# 💰 Sistema de Controle Financeiro Compartilhado (METAKYASSHU) 💰
 ![Logo.png](./Writerside/images/Logo.png)
 #### ✨ Gerenciando finanças com eficiência e simplicidade ✨
 
@@ -44,7 +44,7 @@ O Sistema de Gestão Financeira Metakyasshu é uma plataforma inovadora que comb
 - Docker Compose para ambiente containerizado
 
 ### Mais informações
-- [Documentação do Projeto](bomsalvez.github.io/metakyasshu-docs/home.html)
+- [Documentação do Projeto](https://bomsalvez.github.io/metakyasshu-docs/home.html)
 
 ---
 
